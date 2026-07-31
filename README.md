@@ -21,8 +21,6 @@ Building scalable backend applications, REST APIs, and AI-powered solutions with
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -63,7 +61,6 @@ Building scalable backend applications, REST APIs, and AI-powered solutions with
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 ---
 
 # 🚀 Featured Projects
@@ -232,6 +229,12 @@ I'm continuously building new projects in:
 
 # 📊 GitHub Analytics
 
+💡 Consistently building Java, Spring Boot, AI, and Full Stack projects while expanding my open-source portfolio.
+
+<p align="center">
+...
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sandeep9908&theme=github-dark&hide_border=true" />
 </p>
@@ -338,6 +341,10 @@ I'm continuously building new projects in:
 <p align="center">
 💬 Always open to collaborating on Java, Spring Boot, Backend Development, AI, and Open Source Projects.
 </p>
+
+---
+
+> "Code with purpose, learn continuously, and build solutions that make an impact."
 
 ---
 
