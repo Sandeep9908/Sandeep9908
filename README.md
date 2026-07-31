@@ -2,11 +2,7 @@
   <img src="cskr_github_banner.png" alt="Sandeep Kumar Reddy GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sandeep Kumar Reddy</h1>
-
-<h3 align="center">
-Software Engineer • Java Full Stack Developer • Python & AI Enthusiast
-</h3>
+<h2 align="center">👋 Welcome to my GitHub Profile</h2>
 
 <p align="center">
 Building scalable backend applications, REST APIs, and AI-powered solutions with Java, Spring Boot, Python, and MySQL.
