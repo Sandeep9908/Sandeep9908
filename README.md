@@ -244,4 +244,75 @@ I'm continuously building new projects in:
   <img src="https://komarev.com/ghpvc/?username=Sandeep9908&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
+# 🏆 Achievements & Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-MySQL%20Explorer-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Full%20Stack-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Internship-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Professional Certifications
+
+- 🥇 Oracle Java Foundations Associate
+- 🥇 Oracle MySQL Explorer
+- 🥇 Google Data Analytics Professional Certificate
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Training & Experience
+
+- 🚀 Java Full Stack Training
+- 🤖 AI Internship – Mirai School of Technology
+- 💻 Hands-on Spring Boot Development
+- 🗄️ MySQL Database Development
+- 🚀 Python Programming 
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+### 📚 Areas of Expertise
+
+<p align="center">
+
+`Java`
+`Spring Boot`
+`Hibernate`
+`JDBC`
+`REST API`
+`MySQL`
+`Python`
+`Machine Learning`
+`Flask`
+`HTML`
+`CSS`
+`JavaScript`
+`Git`
+`GitHub`
+
+</p>
+
+
+
+
 
