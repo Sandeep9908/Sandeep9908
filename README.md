@@ -209,14 +209,24 @@ Machine learning application for healthcare prediction with a Flask-based interf
 
 <td width="50%" valign="top">
 
-### 🚧 More Projects Coming Soon...
+## 🚀 More Projects Coming Soon...
 
-I'm continuously building new projects in:
+I'm continuously expanding my portfolio by building high-quality software projects focused on modern technologies and real-world problem solving.
 
-- ☕ Java & Spring Boot
-- 🤖 AI & Machine Learning
-- 🌐 Full Stack Development
-- ☁️ Cloud & DevOps
+### 🛠️ Focus Areas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square)
+
+### ✨ What's Next?
+
+- 🚀 New Projects
+- 💡 Innovative Ideas
+- 📚 Continuous Learning
+- ⭐ Stay Tuned!
 
 </td>
 
