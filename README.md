@@ -64,61 +64,165 @@ Building scalable backend applications, REST APIs, and AI-powered solutions with
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-## 🚀 Featured Projects
-
-### 📰 News Management Portal
-> **Spring Boot • MySQL • JPA • Thymeleaf**
-
-A role-based news publishing platform where **Admins**, **Authors**, and **Users** interact through authentication, article management, comments, and an intuitive dashboard.
-
-🔹 Role-Based Authentication  
-🔹 CRUD Operations  
-🔹 MySQL Database Integration  
-🔹 Spring Boot + Thymeleaf
-
 ---
 
-### 🐶 Dog API JDBC Project
-> **Java • JDBC • MySQL • REST API**
+# 🚀 Featured Projects
 
-A Java console application that integrates with the Dog API to fetch breeds, sub-breeds, and images while storing data efficiently in MySQL using JDBC.
+<table>
 
-🔹 REST API Integration  
-🔹 DAO Architecture  
-🔹 MySQL Database  
-🔹 Menu Driven Console Application
+<tr>
 
----
+<td width="50%" valign="top">
 
+## 📰 News Management Portal
 
-### ✈️ AI Travel Planner
-> **Python • n8n • ChatGPT**
+A role-based news publishing platform with secure authentication, article management, comments, and an admin dashboard.
 
-An AI-powered travel planning assistant that generates personalized travel itineraries based on user preferences and budget.
+### 🛠️ Tech Stack
 
-🔹 AI Recommendations  
-🔹 Workflow Automation  
-🔹 Personalized Itineraries
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+### ✨ Key Features
 
-### 😴 Sleep Disorder Classification
-> **Python • Machine Learning • Flask**
+- 🔐 Role-Based Authentication
+- 📝 Article Management
+- 💬 Comment System
+- 📊 Admin Dashboard
 
-A machine learning application that predicts sleep disorders using healthcare data and multiple ML algorithms.
+</td>
 
-🔹 Machine Learning Models  
-🔹 Flask Web Application  
-🔹 Data Analysis & Prediction
+<td width="50%" valign="top">
 
----
+## 🐶 Dog API JDBC
 
-### 📝 Online Examination System
-> **HTML • CSS • JavaScript • MySQL**
+Java application integrating the Dog API with MySQL using JDBC and a layered DAO architecture.
 
-A web-based online examination platform with student login, exam management, automatic result calculation, and database integration.
+### 🛠️ Tech Stack
 
-🔹 Student Authentication  
-🔹 Online Exams  
-🔹 Automatic Result Generation
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
+### ✨ Key Features
+
+- 🌐 Dog API Integration
+- 🗃️ DAO Architecture
+- 💾 MySQL Storage
+- 📈 Statistics Module
+
+<p align="center">
+<a href="https://github.com/Sandeep9908/Dog-API-JDBC-Project">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📝 Online Examination System
+
+A web-based examination platform with secure login, online tests, and automatic result generation.
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### ✨ Key Features
+
+- 👨‍🎓 Student Authentication
+- 📝 Online Exams
+- 📊 Automatic Results
+- 🗄️ Database Integration
+
+<p align="center">
+<a href="https://github.com/Sandeep9908/Online-Examination-And-Result-System-">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✈️ AI Travel Planner
+
+AI-powered travel planner generating personalized itineraries using workflow automation.
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
+
+### ✨ Key Features
+
+- 🤖 AI Recommendations
+- 🗺️ Travel Planning
+- ⚙️ Workflow Automation
+
+<p align="center">
+<a href="https://github.com/Sandeep9908/ai-travel-planner-by-cskr">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 😴 Sleep Disorder Classification
+
+Machine learning application for healthcare prediction with a Flask-based interface.
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### ✨ Key Features
+
+- 🧠 ML Prediction
+- 📊 Data Analysis
+- 🌐 Flask Web App
+
+<p align="center">
+<a href="https://github.com/Sandeep9908/sleep_disorder_classification">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚧 More Projects Coming Soon...
+
+I'm continuously building new projects in:
+
+- ☕ Java & Spring Boot
+- 🤖 AI & Machine Learning
+- 🌐 Full Stack Development
+- ☁️ Cloud & DevOps
+
+</td>
+
+</tr>
+
+</table>
