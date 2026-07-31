@@ -8,3 +8,9 @@ Software Engineer | Java Full Stack Developer | Python & AI Enthusiast
 Building scalable backend applications, REST APIs, and AI-powered solutions with Java, Spring Boot, Python, and MySQL.
 </p>
 
+
+# Hi 👋, I'm Sandeep Kumar Reddy
+
+### Software Engineer | Java Full Stack Developer | Python & AI Enthusiast
+
+Building scalable backend applications, REST APIs, and AI-powered solutions with Java, Spring Boot, Python, and MySQL.
