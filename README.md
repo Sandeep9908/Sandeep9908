@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cskr_github_banner.png" alt="Sandeep Kumar Reddy GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Reddy</h1>
 
 <h3 align="center">
