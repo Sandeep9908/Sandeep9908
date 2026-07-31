@@ -64,5 +64,61 @@ Building scalable backend applications, REST APIs, and AI-powered solutions with
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## 🚀 Featured Projects
 
+### 📰 News Management Portal
+> **Spring Boot • MySQL • JPA • Thymeleaf**
+
+A role-based news publishing platform where **Admins**, **Authors**, and **Users** interact through authentication, article management, comments, and an intuitive dashboard.
+
+🔹 Role-Based Authentication  
+🔹 CRUD Operations  
+🔹 MySQL Database Integration  
+🔹 Spring Boot + Thymeleaf
+
+---
+
+### 🐶 Dog API JDBC Project
+> **Java • JDBC • MySQL • REST API**
+
+A Java console application that integrates with the Dog API to fetch breeds, sub-breeds, and images while storing data efficiently in MySQL using JDBC.
+
+🔹 REST API Integration  
+🔹 DAO Architecture  
+🔹 MySQL Database  
+🔹 Menu Driven Console Application
+
+---
+
+
+### ✈️ AI Travel Planner
+> **Python • n8n • ChatGPT**
+
+An AI-powered travel planning assistant that generates personalized travel itineraries based on user preferences and budget.
+
+🔹 AI Recommendations  
+🔹 Workflow Automation  
+🔹 Personalized Itineraries
+
+---
+
+### 😴 Sleep Disorder Classification
+> **Python • Machine Learning • Flask**
+
+A machine learning application that predicts sleep disorders using healthcare data and multiple ML algorithms.
+
+🔹 Machine Learning Models  
+🔹 Flask Web Application  
+🔹 Data Analysis & Prediction
+
+---
+
+### 📝 Online Examination System
+> **HTML • CSS • JavaScript • MySQL**
+
+A web-based online examination platform with student login, exam management, automatic result calculation, and database integration.
+
+🔹 Student Authentication  
+🔹 Online Exams  
+🔹 Automatic Result Generation
 
