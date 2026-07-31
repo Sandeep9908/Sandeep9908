@@ -308,20 +308,11 @@ I'm continuously expanding my portfolio by building high-quality software projec
 
 <p align="center">
 
-`Java`
-`Spring Boot`
-`Hibernate`
-`JDBC`
-`REST API`
-`MySQL`
-`Python`
-`Machine Learning`
-`Flask`
-`HTML`
-`CSS`
-`JavaScript`
-`Git`
-`GitHub`
+`Java` `Spring Boot` `Hibernate` `JDBC`
+`REST API` `MySQL` `Python`
+`Machine Learning` `Flask`
+`HTML` `CSS` `JavaScript`
+`Git` `GitHub`
 
 </p>
 
