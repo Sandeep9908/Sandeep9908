@@ -341,8 +341,18 @@ I'm continuously building new projects in:
 
 ---
 
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h3>
+
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+If you like my work, consider ⭐ starring my repositories or connecting with me on LinkedIn.
+</p>
+
+<p align="center">
+Made with ❤️ by <b>Sandeep Kumar Reddy</b>
 </p>
 
 
